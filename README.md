@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS projects**
 
-- 📫 How to reach me **barhoumi.raghe@gmail.com**
+- 📫 How to reach me **barhoumi.ragheb@gmail.com**
 
 - ⚡ Fact **I really do love developing and expending my knowledge**
 
