@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ragheb</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a dedicated and enthusiastic full-stack web developer with a confirmed year of experience and a total of three years in the field. I'm deeply passionate about crafting innovative solutions and pushing the boundaries of web development.</h3>
 
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkpsinight&label=Profile%20views&color=0e75b6&style=flat" alt="darkpsinight" /> </p>
+```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkpsinight" alt="darkpsinight" /></a> </p>
 
