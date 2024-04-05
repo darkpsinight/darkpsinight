@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkpsinight" alt="darkpsinight" /></a> </p>
 
-- 🔭 I’m currently working on **Soomy.tn & Diil.tn projects**
+- 🔭 I’m currently working on developing and deploying the sites **Soomy.tn & Diil.tn** projects
 
 - 🌱 I’m currently learning **Dockerisation, GraphQL and Redis**
 
