@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Dockerisation, GraphQL and Redis**
 
-- 👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS projects**
+- 👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS** projects
 
 - 📫 How to reach me **barhoumi.ragheb@gmail.com**
 
