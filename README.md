@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing and deploying the sites "Soomy.tn" & "Diil.tn" projects.<br>🌱 I’m currently learning Dockerisation, GraphQL and Redis.<br>🤝 I’m looking for a job as a Fullstack JS developer.<br>👯 I’m looking to collaborate on innovate MERNG/PERN/NextJS projects.<br>⚡ I truly enjoy developing and expanding my knowledge.
+🔭 I’m currently working on developing and deploying the sites **"Soomy.tn"** & **"Diil.tn"** projects.<br>🌱 I’m currently learning **Dockerisation**, **GraphQL** and **Redis**.<br>🤝 I’m looking for a job as a **Fullstack JS developer**.<br>👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS projects**.<br>⚡ I truly **enjoy** *developing* and *expanding my knowledge*.
 
 
 ## 🌐 Socials:
