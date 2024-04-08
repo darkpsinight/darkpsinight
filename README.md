@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub profile! I'm a dedicated and enthusiastic full-stack web developer with a confirmed year of experience and a total of three years in the field. I'm deeply passionate about crafting innovative solutions and pushing the boundaries of web development.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on developing and deploying the sites **"Soomy.tn"** & **"Diil.tn"** projects.<br>🌱 I’m currently learning **Dockerisation**, **GraphQL** and **Redis**.<br>🤝 I’m looking for a job as a **Fullstack JS developer**.<br>👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS projects**.<br>⚡ I truly **enjoy** *developing* and *expanding my knowledge in web development and dev-ops*.
+🔭 I’m currently working on developing and deploying the sites **"Soomy.tn"** & **"Diil.tn"** projects.<br>🌱 I’m currently learning **Dockerisation**, **GraphQL** and **Typescript**.<br>🤝 I’m looking for a job as a **Fullstack JS developer**.<br>👯 I’m looking to collaborate on **innovate MERNG/PERN/NextJS projects**.<br>⚡ I truly **enjoy** *developing* and *expanding my knowledge in web development and dev-ops*.
 
 
 ## 🌐 Socials:
