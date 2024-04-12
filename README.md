@@ -40,10 +40,4 @@ I'm **RAGHEB**, a seasoned software engineer currently navigating the dynamic la
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darkpsinight&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkpsinight&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darkpsinight&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=darkpsinight&icon=3&color=3)](https://visitcount.itsvg.in)
-
 <!-- Created by R.B :) -->
