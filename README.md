@@ -1,4 +1,4 @@
-# Full-Stack Web Developer with Deployment Expertise
+# Full-Stack Web & App Developer with Deployment Expertise
 
 <a href="https://stackexchange.com/users/26594838"><img src="https://stackexchange.com/users/flair/26594838.png" width="208" height="58" alt="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
