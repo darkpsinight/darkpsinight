@@ -1,4 +1,4 @@
-# Full-Stack Web & App Developer with with AWS and CI/CD Expertise
+# Full-Stack Web & App Developer with Deployment AWS and CI/CD Expertise
 
 <a href="https://stackexchange.com/users/26594838"><img src="https://stackexchange.com/users/flair/26594838.png" width="208" height="58" alt="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
