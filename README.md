@@ -37,7 +37,10 @@ Hi, i'm **RAGHEB**, a seasoned software engineer currently navigating the dynami
 
 # 🪶 My Blogs:
 <!-- BLOG-POST-LIST:START -->
-
+- [Creating CI/CD pipeline using GitHub Actions with self-hosted runners on AWS EC2, integrated with…](https://medium.com/@darkpsinight/creating-ci-cd-pipeline-using-github-actions-with-self-hosted-runners-on-aws-ec2-integrated-with-2e0a1b9ff68f?source=rss-0f692685a517------2)
+- [Mastering Docker: A Comprehensive Guide to Containerization and Deployment](https://medium.com/@darkpsinight/mastering-docker-a-comprehensive-guide-to-containerization-and-deployment-3420bc096d5f?source=rss-0f692685a517------2)
+- [Learn TypeScript Basics](https://medium.com/@darkpsinight/learn-typescript-basics-6154300e56a6?source=rss-0f692685a517------2)
+- [GraphQL integration Tutorial in a MERN CRUD application](https://medium.com/@darkpsinight/graphql-integration-tutorial-in-a-mern-crud-application-04fa2cd41b04?source=rss-0f692685a517------2)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://medium.com/@darkpsinight)
 
