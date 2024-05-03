@@ -1,4 +1,4 @@
-# A cross-disciplinary Full Stack Developer and DevOps Engineer with a focus on Backend Web Development, with CI/CD & AWS Deployment Expertise
+# A cross-disciplinary Full Stack Developer and DevOps Engineer with a focus on Backend Web Development, with Practical Exposure to CI/CD & AWS Deployment
 
 <a href="https://stackexchange.com/users/26594838"><img src="https://stackexchange.com/users/flair/26594838.png" width="208" height="58" alt="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
