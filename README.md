@@ -9,7 +9,7 @@
 <a href="https://medium.com/@darkpsinight" target="_blank">![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)</a>
 
 
-### _`Software Engineer`_ | _`Tech Enthusiast`_ | _`Lifelong Learner`_ | _`Certified Professional`_
+### _`Software Engineer`_ | _`Tech Enthusiast`_ | _`Lifelong Learner`_ | _`QA Certified`_
 
 # 💫 About Me:
 
