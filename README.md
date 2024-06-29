@@ -38,11 +38,11 @@ Hi, i'm a seasoned software engineer currently navigating the dynamic landscape 
 
 # 🪶 My Blogs:
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code: The Short and Comprehensive Explanation](https://medium.com/@darkpsinight/clean-code-the-short-and-comprehensive-explanation-86c1d4d23f72?source=rss-0f692685a517------2)
 - [Understanding Parameters and Arguments in JavaScript Functions](https://medium.com/@darkpsinight/understanding-parameters-and-arguments-in-javascript-functions-61da0f85f784?source=rss-0f692685a517------2)
 - [A Deep Dive into JavaScript’s Strict and Non-Strict Modes](https://medium.com/@darkpsinight/a-deep-dive-into-javascripts-strict-and-non-strict-modes-52e7a39c821e?source=rss-0f692685a517------2)
 - [Understanding User Authentication with GitHub in Node.js: A Beginner’s Guide](https://medium.com/@darkpsinight/understanding-user-authentication-with-github-in-node-js-a-beginners-guide-1017fc615d16?source=rss-0f692685a517------2)
 - [Creating CI/CD pipeline using GitHub Actions with self-hosted runners on AWS EC2, integrated with…](https://medium.com/@darkpsinight/creating-ci-cd-pipeline-using-github-actions-with-self-hosted-runners-on-aws-ec2-integrated-with-2e0a1b9ff68f?source=rss-0f692685a517------2)
-- [Mastering Docker: A Comprehensive Guide to Containerization and Deployment](https://medium.com/@darkpsinight/mastering-docker-a-comprehensive-guide-to-containerization-and-deployment-3420bc096d5f?source=rss-0f692685a517------2)
 <!-- BLOG-POST-LIST:END -->
 ▶ [...more blog articles](https://medium.com/@darkpsinight)
 
