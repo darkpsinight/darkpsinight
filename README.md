@@ -1,6 +1,6 @@
 # A cross-disciplinary Full Stack Developer and DevOps Engineer with a focus on Frontend Web Development, with Practical Exposure to CI/CD & AWS Deployment
 
-<a href="https://stackexchange.com/users/26594838"><img src="https://stackexchange.com/users/flair/26594838.png" width="208" height="58" alt="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/20217382/darkpsinight"><img src="https://stackexchange.com/users/flair/26594838.png" width="208" height="58" alt="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 <a href="https://stackoverflow.com/users/20168209/darkpsinight-2"><img src="https://stackexchange.com/users/flair/26536812.png" width="208" height="58" alt="profile for Darkpsinight_2 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Darkpsinight_2 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <a href="https://www.linkedin.com/in/ragheb-barhoumi-90291223a" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
